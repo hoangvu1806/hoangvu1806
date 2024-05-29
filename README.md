@@ -1,3 +1,13 @@
+```java
+class MySelf
+{
+    public String fullName = "Đỗ Hoàng Vũ";
+    public String gender = "Male";
+    public int age = 19;
+    public String hobbies = "Sleeping";
+}
+```
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,13 +39,9 @@
 
 - ☁️ I've keen interest in machine learing. So,I'm learning **Deep Learning**
 
-- 📝 I regularly write articles on [Hashnode](https://hoangvu1806.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **dohoangvu.forwork@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [hoangvu1806](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
