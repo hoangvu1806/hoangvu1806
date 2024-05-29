@@ -1,11 +1,10 @@
-```java
-class MySelf
-{
-    public String fullName = "Đỗ Hoàng Vũ";
-    public String gender = "Male";
-    public int age = 19;
-    public String hobbies = "Sleeping";
-}
+```python
+class MySelf:
+    def __init__(self):
+    self.full_name = "Đỗ Hoàng Vũ"
+    self.gender = "Male"
+    self.age = 19
+    self.hobby = "Sleeping"
 ```
 
 <!--horizontal divider(gradiant)-->
