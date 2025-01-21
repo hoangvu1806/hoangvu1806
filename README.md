@@ -1,4 +1,4 @@
-```
+```python
 class MySelf:
     def __init__(self):
         self.full_name = "Đỗ Hoàng Vũ"
