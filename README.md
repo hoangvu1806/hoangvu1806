@@ -65,7 +65,7 @@ class MySelf:
     <li><b>VizQuest</b>: Enhanced video event retrieval using fusion and temporal modeling (SOICT24 Presentation).</li>
     <li><b>Generative AI Music Systems</b>: Improved music generation with state-of-the-art techniques.</li>
     <li><b>Real-time Voice Transformation</b>: Researched speech-to-speech models for live interactions.</li>
-    <li><b>Zalo AI Challenge 2023</b>: Collaborated on advanced AI solutions for video event retrieval.</li>
+    <li><b>AI Challenge 2024</b>: Collaborated on advanced AI solutions for video event retrieval.</li>
   </ul>
 </div>
 
